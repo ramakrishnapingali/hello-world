@@ -1,5 +1,6 @@
 # hello-world
 Just a sample repo
-Hi This is Ramakrishna and this is my first GIT hello world repository.
+
+This is a second repository where I am just keeping this line
 
 Thanks
